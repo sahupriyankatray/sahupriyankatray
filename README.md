@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm working as Sr.Quality Analyst. 
+### I'm working as Sr.Quality Analyst. 
 <br>
 - 🌱 I’m currently learning automation using 'Selenium' framework.
 </br>

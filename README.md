@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+## I'm working as Sr.Quality Analyst. 
+<br>
+- 🌱 I’m currently learning automation using 'Selenium' framework.
+</br>
 <!--
 **sahupriyankatray/sahupriyankatray** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
